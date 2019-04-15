@@ -1,4 +1,4 @@
-#Electron Shopping List
+<h1>Electron Shopping List</h1>
 
 This is a basic Shopping List web application with Electron and basic HTML and CSS.
 
